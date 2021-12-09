@@ -1,0 +1,10 @@
+*.aux
+*.bbl
+*.blg
+*.hst
+*.lof
+*.log
+*.lot
+*.synctex*
+*.toc
+*.ver
